@@ -1,4 +1,4 @@
-# First implementation of addition and scalar multiplication of Curve1174 in java
+<h1>First implementation of addition and scalar multiplication of Curve1174 in java</h1>
 <br><br>
 ![#](https://www.johndcook.com/curve1174_plot.svg)<br><br>
 <h2>What is ECPoint ?</h2>
